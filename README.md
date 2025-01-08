@@ -1,6 +1,6 @@
 # Dice-Roller-Page
 
-This is a simple dice roller page created using **HTML**, **CSS**, and **JavaScript**. The project is designed to simulate the rolling of dice with a visually engaging interface.
+This is a simple dice roller page created using **HTML**, **CSS**, and **JavaScript**. The project is designed to simulate the rolling of dice with a visually engaging interface. Check out here at https://allengeorge2277.github.io/Dice-Roller-Page
 
 - ***Interactive Dice Roll*** - Roll the dice with a click and display randomized results.
 - ***Dynamic Images*** - Dice faces update dynamically based on the rolled number.
